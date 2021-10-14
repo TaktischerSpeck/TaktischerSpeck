@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TaktischerSpeck aka Vincent
 - 👀 I’m interested in Programming, System Administration and Arma 3 :)
 - 🌱 I’m currently learning JS / TS
-- 📫 How to reach me TaktischerSpeck#6418
+- 📫 How to reach me TaktischerSpeck#1337
 
 <!---
 TaktischerSpeck/TaktischerSpeck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
